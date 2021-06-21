@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ledukilian
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning backend developpement
-- 📫 You can reach me on my portfolio contact form : https://ledukilian.fr/#contacts-e
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ledukilian)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 ledukilian/ledukilian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
