@@ -1,5 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ledukilian)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ledukilian&show_icons=true&theme=dracula)
 
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledukilian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 <!---
 ledukilian/ledukilian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
