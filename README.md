@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ledukilian&show_icons=true&theme=highcontrast&count_private=true&hide=stars,contribs&title_color=c91e1e&border_color=EFEFEF&icon_color=c91e1e&bg_color=1F1F1F)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ledukilian&theme=gitdimmed&margin-w=15&no-bg=true&no-frame=true&title=Followers,PullRequest,Issues,Commits)](https://github.com/ledukilian)
