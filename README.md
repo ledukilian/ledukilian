@@ -13,7 +13,3 @@
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=ColorName&color=black)
-
-
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=ledukilian&theme=gitdimmed&margin-w=15&no-bg=true&no-frame=true&title=Followers,PullRequest,Issues,Commits)](https://github.com/ledukilian)
