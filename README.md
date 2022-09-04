@@ -21,3 +21,10 @@ I am Kilian, a big computer and programming enthusiast. I have a very self-taugh
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
+
+
+##  📚 Next steps are..
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=ColorName&color=black)
