@@ -29,9 +29,3 @@ Actuellement en étude de Développeur Back-End en alternance et Freelance en de
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=ColorName&color=black)
-
-
-
-##  📰 Mes dernières publications..
-🌐 **Ouvrir son serveur Apache en local aux autres appareils**
->https://ledukilian.notion.site/Ouvrir-son-serveur-Apache-en-local-aux-autres-appareils-c4f5d36184c142ae85b492fdb517f267
