@@ -1,12 +1,13 @@
 ## 👋 Hello World!
-I am Kilian, a big computer and programming enthusiast. I have a very self-taught and voluntary profile that will not back down from any obstacle.
+Actuellement en étude de Développeur Back-End en alternance et Freelance en devenir sur mon temps restant disponible, je suis un grand passionné d'informatique et de programmation. J'ai un profil très autodidacte et volontaire qui ne reculera devant aucun obstacle.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kilian_LE_DU_-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ledu-kilian/)](https://www.linkedin.com/in/ledu-kilian/)
 [![Instagram Badge](https://img.shields.io/badge/-kilian_ld_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kilian_ld_/)](https://www.instagram.com/kilian_ld_/)
 [![Youtube Badge](https://img.shields.io/badge/-www.ledukilian.fr-darkred?style=flat-square&logo=code&logoColor=white&link=https://www.ledukilian.fr)](https://www.ledukilian.fr)
 
 
-##  🛠️ Working with..
+
+##  🛠️ Je travaille principalement avec..
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
@@ -24,7 +25,13 @@ I am Kilian, a big computer and programming enthusiast. I have a very self-taugh
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
 
 
-##  📚 Next steps are..
+##  📚 Prochaines étapes ? Peut-être..
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=ColorName&color=black)
+
+
+
+##  📰 Mes dernières publications..
+🌐 **Ouvrir son serveur Apache en local aux autres appareils**
+>https://ledukilian.notion.site/Ouvrir-son-serveur-Apache-en-local-aux-autres-appareils-c4f5d36184c142ae85b492fdb517f267
