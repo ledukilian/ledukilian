@@ -1,5 +1,5 @@
 ## 👋 Hello World!
-Actuellement en étude de Développeur Back-End en alternance et Freelance en devenir sur mon temps restant disponible, je suis un grand passionné d'informatique et de programmation. J'ai un profil très autodidacte et volontaire qui ne reculera devant aucun obstacle.
+Je suis un grand passionné d'informatique et de programmation, avec un profil très autodidacte et volontaire qui ne reculera devant aucun obstacle.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kilian_LE_DU_-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ledu-kilian/)](https://www.linkedin.com/in/ledu-kilian/)
 [![Instagram Badge](https://img.shields.io/badge/-ledukilian-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ledukilian/)](https://www.instagram.com/ledukilian/)
