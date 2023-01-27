@@ -25,7 +25,7 @@ Je suis un grand passionné d'informatique et de programmation, avec un profil t
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
 
 
-##  📚 Prochaines étapes ? Peut-être..
+##  📚 Prochaines étapes ? Probablement..
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=ColorName&color=black)
