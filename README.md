@@ -1,5 +1,7 @@
 ## 👋 Hello World!
-Je suis un grand passionné d'informatique et de programmation, avec un profil très autodidacte et volontaire qui ne reculera devant aucun obstacle.
+Je suis un passionné d'informatique et de programmation, doté d'une grande capacité d'adaptation, d'une forte détermination, d'un professionnalisme et d'une volonté qui ne recule devant aucun obstacle.
+
+En plus de la programmation, j'ai également une grande passion pour les jeux vidéo et tout ce qui touche à la technologie en général.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kilian_LE_DU_-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ledu-kilian/)](https://www.linkedin.com/in/ledu-kilian/)
 [![Instagram Badge](https://img.shields.io/badge/-ledukilian-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ledukilian/)](https://www.instagram.com/ledukilian/)
