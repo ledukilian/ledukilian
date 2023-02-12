@@ -27,7 +27,9 @@ En plus de la programmation, j'ai également une grande passion pour les jeux vi
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
 
 
-##  📚 Prochaines étapes ? Probablement..
-![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
+##  📚 Je suis actuellement en train d'apprendre..
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=black)
+
+##  🎯 Prochaines étapes ? Probablement..
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
