@@ -4,9 +4,6 @@ Je suis un passionné d'informatique et de programmation, doté d'une grande cap
 En plus de la programmation, j'ai également une grande passion pour les jeux vidéo et tout ce qui touche à la technologie en général.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kilian_LE_DU_-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ledu-kilian/)](https://www.linkedin.com/in/ledu-kilian/)
-[![Instagram Badge](https://img.shields.io/badge/-ledukilian-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ledukilian/)](https://www.instagram.com/ledukilian/)
-[![Youtube Badge](https://img.shields.io/badge/-www.ledukilian.fr-darkred?style=flat-square&logo=code&logoColor=white&link=https://www.ledukilian.fr)](https://www.ledukilian.fr)
-
 
 
 ##  🛠️ Je travaille principalement avec..
@@ -25,11 +22,10 @@ En plus de la programmation, j'ai également une grande passion pour les jeux vi
 ![](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
-
-
-##  📚 Je suis actuellement en train d'apprendre..
+<br>
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 
-##  🎯 Prochaines étapes ? Probablement..
+##  🎯 Je suis actuellement en train d'apprendre..
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=ColorName&color=black)
