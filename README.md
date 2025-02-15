@@ -1,7 +1,7 @@
 ## 👋 Hello World!
-Je suis un passionné d'informatique et de programmation, doté d'une grande capacité d'adaptation, d'une forte détermination, d'un professionnalisme et d'une volonté qui ne recule devant aucun obstacle.
+I am passionate about computers and programming, with great adaptability, strong determination, professionalism, and a willingness that doesn't back down from any obstacle.
 
-En plus de la programmation, j'ai également une grande passion pour les jeux vidéo et tout ce qui touche à la technologie en général.
+In addition to programming, I also have a great passion for video games and everything related to technology in general.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kilian_LE_DU_-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ledu-kilian/)](https://www.linkedin.com/in/ledu-kilian/)
 
